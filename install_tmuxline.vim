@@ -1,0 +1,2 @@
+TmuxlineSnapshot! ~/.tmux.conf
+q

@@ -1,2 +1,2 @@
 # dotfiles
-My personal Ubuntu/Mac CLI Setup
+My personal Ubuntu/OSX CLI Setup

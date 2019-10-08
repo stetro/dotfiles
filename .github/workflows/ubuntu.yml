@@ -1,0 +1,13 @@
+name: Ubuntu CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Run Ubuntu setup script
+      run: sh ubuntu_setup.sh
+

@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v1
     - name: Run Ubuntu setup script
       run: sh ubuntu_setup.sh
 

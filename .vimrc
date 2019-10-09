@@ -39,7 +39,6 @@ filetype plugin indent on
 
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git\|bower_components'
  
-colorscheme Monokai
 
 
 map <c-f> :call JsBeautify()<cr>

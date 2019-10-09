@@ -9,4 +9,5 @@ vim -S install_vundle.vim
 tmux new-session "vim -S install_tmuxline.vim"
 echo 'set-window-option -g mode-keys vi' >> ~/.tmux.conf
 echo 'colorscheme Monokai' >> ~/.vimrc
+cat ~/.tmux.conf
 

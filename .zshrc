@@ -11,6 +11,7 @@ TERM="screen-256color"
 source $ZSH/oh-my-zsh.sh
 
 alias s="cd ~/Source"
+alias commitcount="git rev-list HEAD --count"
 export EDITOR=vim
 
 bindkey "^[[1;3C" forward-word
